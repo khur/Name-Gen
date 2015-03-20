@@ -1,0 +1,38 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	font-family: tahoma;
+}
+
+header{
+	background: #CCCCCC;
+	}
+
+#cupid {
+	padding: 0px 30px 3px;
+	color: pink;
+	margin: 0 auto;
+	width: 15%;
+	display: block;
+	font-weight: bolder;
+	background: gray;
+}
+
+.container{
+	background: pink;
+	display: flex;
+	border: 10px solid black;
+}
+
+
+.names{
+	width: 500px;
+	height: 500px;
+	border: 2px solid yellow;
+	flex:1;
+	margin: 2.5%;
+	background: white;
+	padding: 10%;
+}
+
+
